@@ -1,0 +1,6 @@
+Welcome to Dev Club
+This is a  Software Develpoment club of IIT Delhi.
+It is a club which tries to create a coding environment at IIT Delhi.
+They develop innovative designs.
+Also hold sessions for newcomers and help them develop their technical skills.
+It is basically a hub for interesting and innovative projects.
